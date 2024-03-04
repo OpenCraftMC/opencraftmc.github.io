@@ -30,6 +30,12 @@ header {
     -webkit-box-shadow: 0px -9px 53px 12px rgba(0, 0, 0, 0.76);
     -moz-box-shadow: 0px -9px 53px 12px rgba(0, 0, 0, 0.76);
     box-shadow: 0px -9px 53px 12px rgba(0, 0, 0, 0.76);
+
+    align-items: center;
+}
+
+header>h1 {
+    font-size: 20pt;
 }
 
 header ul {
@@ -59,12 +65,12 @@ header ul li a {
 
 #github-link {
     position: relative;
-    left: 57vw;
+    left: 54vw;
 }
 
 #discord-link {
     position: relative;
-    left: 56vw;
+    left: 53vw;
 }
 
 section
